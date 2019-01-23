@@ -6,7 +6,7 @@ There are a lot of talks that would be awesome for multiple meetups in Richmond,
 
 ## **Speakers**
 
-Please [fill out an issue](https://github.com/RVATechMeetups/Speakers/issues/new) with information about your proposed talk. There's a template with some questions to answer about your talk within that issue. Feel free to skip any you don't feel comfortable answering. Also, add labels to the issue so your talk is easier to find.
+Please [fill out an issue](https://github.com/RVATechMeetups/Speakers/edit/master/.github/ISSUE_TEMPLATE/presentations.md) with information about your proposed talk. There's a template with some questions to answer about your talk within that issue. Feel free to skip any you don't feel comfortable answering. Also, add labels to the issue so your talk is easier to find.
 
 ## **Organizers**
 
