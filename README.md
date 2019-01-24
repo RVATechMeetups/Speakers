@@ -19,6 +19,7 @@ Reach out to the speakers whose talks interest you!
 - [RVA Software Development User Group](https://www.meetup.com/RVA-Software-Development-User-Group/)
 - [Docker Richmond](https://www.meetup.com/Docker-Richmond/)
 - [Azure Richmond Virginia](https://www.meetup.com/AzureRichmondVirginia/)
+- [DevOps RVA](http://devopsrva.com)
 
 
 ### About the Repo
