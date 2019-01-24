@@ -18,6 +18,7 @@ Reach out to the speakers whose talks interest you!
 - [RVA.js](https://www.meetup.com/rva-js/)
 - [RVA Software Development User Group](https://www.meetup.com/RVA-Software-Development-User-Group/)
 - [Docker Richmond](https://www.meetup.com/Docker-Richmond/)
+- [Azure Richmond Virginia](https://www.meetup.com/AzureRichmondVirginia/)
 
 
 ### About the Repo
